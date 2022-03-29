@@ -1,0 +1,17 @@
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.BLL.deps.json
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.BLL.dll
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.BLL.pdb
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.Core.dll
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.DAL.dll
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.Core.pdb
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\bin\Debug\net6.0\SolarFarm.DAL.pdb
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.csproj.AssemblyReference.cache
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.AssemblyInfoInputs.cache
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.AssemblyInfo.cs
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.csproj.CopyComplete
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.dll
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\refint\SolarFarm.BLL.dll
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\SolarFarm.BLL.pdb
+C:\Users\Aaron\Code\SolarFarm\SolarFarm.BLL\obj\Debug\net6.0\ref\SolarFarm.BLL.dll

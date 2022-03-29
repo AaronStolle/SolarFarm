@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SolarFarm.BLL/1.0.0": {
+        "dependencies": {
+          "SolarFarm.Core": "1.0.0",
+          "SolarFarm.DAL": "1.0.0"
+        },
+        "runtime": {
+          "SolarFarm.BLL.dll": {}
+        }
+      },
+      "SolarFarm.Core/1.0.0": {
+        "runtime": {
+          "SolarFarm.Core.dll": {}
+        }
+      },
+      "SolarFarm.DAL/1.0.0": {
+        "dependencies": {
+          "SolarFarm.Core": "1.0.0"
+        },
+        "runtime": {
+          "SolarFarm.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarFarm.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarFarm.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarFarm.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
